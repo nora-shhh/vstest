@@ -1,0 +1,2327 @@
+﻿  Line.cpp
+  ViewWidget.cpp
+  MiniDraw.cpp
+  main.cpp
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0xe8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xb4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x18d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0xff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xbe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x18f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\main.cpp(1,1): warning C4828: 文件包含在偏移 0x102 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x191 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x192 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x115 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x117 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xd7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xd8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x119 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xdb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x11a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x11b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xdd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x203 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x205 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x207 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x155 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x208 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x156 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x341 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x342 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x20a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x343 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x162 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x344 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x345 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x348 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x391 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x190 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x392 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x191 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x393 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x394 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x278 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x395 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x27a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x397 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x398 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x288 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x39c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x3ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x203 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x205 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x206 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x4e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x68b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x68c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x68f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x691 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x693 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x694 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x213 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x214 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x695 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x215 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x217 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x696 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x26a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x26c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x699 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x26f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x69c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x69d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x69e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x2ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x355 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x358 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x359 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x35a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x35d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x476 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x478 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x47a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x47b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x485 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x486 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x487 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x488 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x573 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x575 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x577 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x578 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x582 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x583 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x584 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x585 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x6d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x708 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x709 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x70a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x70b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x716 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x719 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x71a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x71b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x64a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x71c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x64b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x71d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x64c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x745 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x655 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x65d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x751 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x65f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x754 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x664 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x755 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x665 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x757 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x666 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x75b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x667 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x75d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x668 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x75e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x66a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x75f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x677 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x762 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x678 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x764 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x697 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x766 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x698 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x768 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x69b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.cpp(1,1): warning C4828: 文件包含在偏移 0x769 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x69c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x115 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x117 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x119 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x11a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x11b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x203 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x205 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x207 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x8fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x208 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x20a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x278 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x27a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x288 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x159 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x162 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x163 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x165 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x240 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x245 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x251 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x307 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x30a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x329 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x32a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x360 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“ViewWidget.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x159 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x162 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x163 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x165 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x240 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x245 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x251 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x307 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x30a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x329 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x32a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x360 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Line.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x159 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x162 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x163 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x165 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x240 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x245 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x251 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x307 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x30a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x329 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x32a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x360 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+  moc_MiniDraw.cpp
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x115 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x117 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x119 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x11a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x11b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x1dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x203 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x205 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x207 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x208 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x20a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x278 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x27a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\MiniDraw.h(1,1): warning C4828: 文件包含在偏移 0x288 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x159 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x162 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x163 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x165 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x16b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x240 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x245 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x251 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x2ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x307 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x30a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x329 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x32a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x35e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x360 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\ViewWidget.h(1,1): warning C4828: 文件包含在偏移 0x3e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0x91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Line.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+E:\vs\task1\MiniDraw\MiniDraw\Figure.h(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_MiniDraw.cpp”)
+  
+  MiniDraw.vcxproj -> E:\vs\task1\MiniDraw\x64\Debug\MiniDraw.exe
